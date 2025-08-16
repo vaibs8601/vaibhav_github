@@ -1,8 +1,8 @@
 <h1 align="center">Hi 👋, I'm Vaibhav Deshmukh</h1>
-<h3 align="center">A motivated and enthusiastic student pursuing the B. E. in Artificial Intelligence and Data Science</h3>
+<h3 align="center">A motivated and enthusiastic student pursuing the B.E. in Computer Engineering.</h3>
 <img align="right" alter="coding" width="400" src="https://user-images.githubusercontent.com/69011963/137184767-79a13ec7-1bb3-4341-a6da-3a149c9c159a.gif">
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=yashjagtapgithubcom&label=Profile%20views&color=0e75b6&style=flat" alt="yashjagtapgithubcom" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=yashjagtapgithubcom&label=Profile%20views&color=0e75b6&style=flat" alt="vaibhavdeshmukhgithubcom" /> </p>
 
 - 📫 How to reach me **vaibhavnd862001@gmail.com**
 
